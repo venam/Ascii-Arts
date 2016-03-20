@@ -1,0 +1,197 @@
+I've read them all (I couldn't wait).
+
+Here's a summary:
+
+[code]
+Use monospace font
+
+Start with a canvas (a text file filed with spaces)
+
+Characters differences, shades, effects:
+
+Sketching style chars:          / ` " ' \ , . _ - = ~ ^ ; |
+More on sketching style:
+    / \ | - _ + ( ) < > , . ~ ^ " V X T Y I l L : ` ' ! j J 7
+You usually start with those characters when sketching the outline:
+  / \ | - _ ( )
+Then try polish and not leave any gap.
+Example:
+
+                   |         |        |        |        |
+                   |         l        l.       \        l
+                    |         I       `|        Y       `L
+                    |         |        |        |        |
+
+                 START       ^----------OPTIONS----------^
+
+Near horizontal lines use those chars:  ~"-.,_ 
+Example:
+    __
+      "~~"----..,___
+
+
+Curves in sketchy style with those chars:     / \ - _ ~ " . , ' ` ! I l Y
+Example: 
+                     ___
+                 .-~"   "~-.                           /
+                /           \                      _.-~
+               Y             Y                   ,^
+               |             |                  /
+               l             !                 /
+                \           /             __.-~
+                 "-.,___,.-"
+
+                   CIRCLE                SUBTLE CURVATURES
+
+A note on intersections:
+[quote]
+    I also consider the choice between "." an "," important because it
+    affects the smoothness of the line. For example, in the part on the
+    above curve: _.- :it looks like a "," may have been a better choice:
+
+                      /             But as you can see here, using the
+                  _,-~              comma has altered the flow of the
+                ,^                  line somewhat. It now appears as
+               /                    more of a "step" rather than an
+              /                     angled line.
+          _,-~
+
+        CURVE USING COMMA
+
+    Intersections require yet another strategy. Often you'll find that one
+    line must join onto another at a place where the join isn't neat:
+
+        "-._ /         "-._ /           Here the incoming line should join
+            /              7            onto the main part halfway through
+           /              /             a "/". That's where you can use some
+                                        other chars. In this example, a "7"
+     INTERSECTION        FIX            would work well, as seen in the
+                                        example to the left.
+
+    You could also try "Z" "X" "T" "Y" as a replacement, but it depends
+    entirely on what is happening around that point as to which char works
+    the best. Other chars which work well in these situations are "K" "<" ">"
+    "r" "L" "j" "J" and "I" because they all point in at least 3 directions.
+[/quote]
+
+
+Solid Art Style:
+
+Filled look chars:           @ # $ & X % > / ; :
+Subtilities chars:         S $    : ;    % X    0 O
+Pay attention to uppercase and lowercase:         S s    X x    O o   @ a
+Example of decreasing and increasing lines: 
+		Ss,..,sS          or    -=*@*=-     or     .,%,.
+		SSss,,..,,ssSS    or    ..,,;;|;;,,..
+[quote]
+    By using a "heavy" character such as: W M H 8 :you build up a basic
+    silhouette (filled in outline)
+[/quote]
+Heavy characters and lighter ones create a contrast.
+
+Then the same, you polish.
+[quote]
+    Once the basic shape is defined with the chosen character, the anti-
+    aliasing process is next. The most used chars are:
+
+    d b P F 9 V T Y A U _ , . - * ^ ~ " ` ' n a o l L j J k [ ] ( ) : \ / | !
+[/quote]
+[quote]
+    Going back to the earlier "curve" examples, here they are in solid form:
+
+                  .adAHHHAbn.                           JHH
+                 dHHHHHHHHHHHb                      _.adHHH
+                dHHHHHHHHHHHHHb                   ,AHHHHHHH
+                HHHHHHHHHHHHHHH                  dHHHHHHHHH
+                VHHHHHHHHHHHHHP                 JHHHHHHHHHH
+                 YHHHHHHHHHHHP              _.adHHHHHHHHHHH
+                  "^YUHHHUP^"              HHHHHHHHHHHHHHHH
+                      "~"
+                    SPHERE                   CURVED HILL
+
+    It's important to get a good understanding of how best to use the
+    characters. The basic forms are as follows:
+
+          _,.aomdAHAbmon.,_     For the upper curves.
+
+            "~^*YUHUP*^~"       For the lower curves.
+[/quote]
+
+Solid artworks have outer edges.
+The characters used to smoothen them are:
+[quote]
+    Good "outer" characters are:    . , : ; ' `
+    For the transition from solid to outer edge:   I H A U V T Y | i j d b
+    n a o [ ]   :or basically anything that produces the desired effect.
+[/quote]
+
+
+---
+
+Remember that characters have different position on the line, they can be used
+as bridges with the line above or under.
+
+Size of the art:
+
+Smaller is harder, gives space to the imagination and needs more details.
+[quote]
+	Remember, shape is the most important aspect of small ascii art.
+	...it's not always necessary to be that detailed,
+    it is more important to focus on making the object immediately
+    identifiable.
+[/quote]
+Bigger is easier but annoying on the screen.
+
+Visualizing:
+After a fast sketch, which consist of just drawing the boundaries.
+
+[quote]
+Afterwards I'll go through and
+add the highlighting, shading, and other detail work that I want.
+Sometimes when you're sitting so close to the screen, tapping in the
+pictures, NOTHING you do looks right.  If that's the case, stand back
+from the screen.... Or squint your eyes.  Or if you wear glasses, take
+them off for a moment.  Many times you'll see the picture "come
+together" when you try one of these little tricks.
+[/quote]
+
+Or resizing:
+[quote]
+In reduced format the text is actually transferred in graphics so
+that an '8' would actually appear as a black square.  This gave the
+picture a rough look; the edges were all jagged.  But, by
+experimenting with various character changes I soon realized that
+I could smooth out those jagged edges.  I spent a lot of time
+flipping back and forth between the normal and the reduced views.
+[/quote]
+
+
+About smoothing (or polishing):
+[quote]
+The whole thing is visual as you could have guessed.  So, the best
+way I know to show you what I mean is by giving an example:
+
+
+     Take this                     Doesn't this
+     for example                   look smoother?
+
+      8                              8
+      88                             Yb
+       88                             Yb
+        888                            Y8a,
+          88888                         `"Y888
+
+
+BTW, that reminds me of a quote I saw not too long ago:  "A truly
+wise person does not play leapfrog with a rhinoceros"  :-)
+
+I consider the "smoothing problem" as nothing more than a "weight
+distribution problem".  By shifting up the pixel density of an 8
+with characters such as P, Y, ", etc., where necessary, and by
+shifting down the pixel density of an 8 with characters such as b,
+d, a, etc., where necessary, the graphic takes on a smoother look.
+[/quote]
+
+When choosing a picture:
+You can start by drawing over it the highlight and main lines.
+[/code]
