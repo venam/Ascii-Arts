@@ -8,6 +8,10 @@ How to display (or that's the idea at least):
 `while read -r line; do echo -e $line; done < robot1`
 
 
+#Online
+
+The arts are layed out nicely on my [blog](http://venam.nixers.net/blog/asciiart.html)
+
 
 ##Screenshots
 
