@@ -3,11 +3,6 @@
 
 Email me if you want me to do an ascii art for you.
 
-
-How to display (or that's the idea at least):  
-`while read -r line; do echo -e $line; done < robot1`
-
-
 #Online
 
 The arts are layed out nicely on my [blog](http://venam.nixers.net/blog/asciiart.html)
@@ -15,10 +10,9 @@ The arts are layed out nicely on my [blog](http://venam.nixers.net/blog/asciiart
 
 ##Screenshots
 
-![venam](https://raw.github.com/venam/Ascii-Arts/master/venam.png)
-![parabola](https://raw.github.com/venam/Ascii-Arts/master/parabola.png)
-![robot0](https://raw.github.com/venam/Ascii-Arts/master/as.png)
-![robot1](https://raw.github.com/venam/Ascii-Arts/master/robot1.png)
-![robot2](https://raw.github.com/venam/Ascii-Arts/master/robot2.png)
-![robot3](https://raw.github.com/venam/Ascii-Arts/master/robot3.png)
-![robot4](https://raw.github.com/venam/Ascii-Arts/master/robot4.png)
+![venam](http://venam.nixers.net/blog/assets/ascii/as1.png)
+![parabola](http://venam.nixers.net/blog/assets/ascii/as4.png)
+![robot0](http://venam.nixers.net/blog/assets/ascii/as2.png)
+![robot1](http://venam.nixers.net/blog/assets/ascii/as11.png)
+![robot2](http://venam.nixers.net/blog/assets/ascii/as14.png)
+![robot3](http://venam.nixers.net/blog/assets/ascii/as15.png)
