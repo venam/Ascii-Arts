@@ -1,0 +1,54 @@
+HELP: To get the special character at the start of the code you do: CTRL-V
+      followed by ESC or you can follow by CTRL-[ instead of ESC
+[0;0;0m--Foreground--
+WHITE
+[0;37m|||||||[0;0;0m
+[1;37m|||||||[0;0;0m
+BLACK
+[0;30m|||||||[0;0;0m
+[1;30m|||||||[0;0;0m
+RED
+[0;31m|||||||[0;0;0m
+[1;31m|||||||[0;0;0m
+GREEN
+[0;32m|||||||[0;0;0m
+[1;32m|||||||[0;0;0m
+YELLOW
+[0;33m|||||||[0;0;0m
+[1;33m|||||||[0;0;0m
+BLUE
+[0;34m|||||||[0;0;0m
+[1;34m|||||||[0;0;0m
+MAGENTA
+[0;35m|||||||[0;0;0m
+[1;35m|||||||[0;0;0m
+CYAN
+[0;36m|||||||[0;0;0m
+[1;36m|||||||[0;0;0m
+--End Foreground--[0;0;0m
+--Background--
+WHITE
+[0;0;47m       [0;0;0m
+[37;7;1m       [0;0;0m
+BLACK
+[0;0;40m       [0;0;0m
+[30;7;1m       [0;0;0m
+RED
+[0;0;41m       [0;0;0m
+[31;7;1m       [0;0;0m
+GREEN
+[0;0;42m       [0;0;0m
+[32;7;1m       [0;0;0m
+YELLOW
+[0;0;43m       [0;0;0m
+[33;7;1m       [0;0;0m
+BLUE
+[0;0;44m       [0;0;0m
+[34;7;1m       [0;0;0m
+MAGENTA
+[0;0;45m       [0;0;0m
+[35;7;1m       [0;0;0m
+CYAN
+[0;0;46m       [0;0;0m
+[36;7;1m       [0;0;0m
+--End Background--
