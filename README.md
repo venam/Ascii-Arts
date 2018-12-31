@@ -1,14 +1,14 @@
-#ASCII/ANSI-Arts
+# ASCII/ANSI-Arts
 ===========
 
 Email me if you want me to do an ascii art for you.
 
-#Online
+# Online
 
 The arts are layed out nicely on my [blog](http://venam.nixers.net/blog/asciiart.html)
 
 
-##Screenshots
+## Screenshots
 
 ![venam](http://venam.nixers.net/blog/assets/ascii/as1.png)
 ![parabola](http://venam.nixers.net/blog/assets/ascii/as4.png)
